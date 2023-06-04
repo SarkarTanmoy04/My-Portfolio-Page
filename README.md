@@ -12,6 +12,7 @@ Divided this project into ***Multiple Sections***
 
 + My Profile
 + About
++ My Skill sets
 + Services
 + Contacts
 
